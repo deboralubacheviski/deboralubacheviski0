@@ -2,4 +2,6 @@
 
 Meu nome é Debora Lubacheviski!
 
--Utilizo este espaço para compartilhar meus projetos desenvolvidos
+-Estou estudando no Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
